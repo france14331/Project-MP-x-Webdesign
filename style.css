@@ -17,3 +17,18 @@
 	background-color: #ed6327;
 	height: 100px;
 }
+
+.pic-content{
+	padding-top: 70px;
+	display: inline-block;
+}
+
+.content{
+	text-align: center;
+	color: #C8d5e8;
+	display: inline-block;
+}
+
+.head-home{
+	color: #6eed0c;
+}
