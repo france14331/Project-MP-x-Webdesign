@@ -1,9 +1,19 @@
 #head{
 	position: absolute;
-	height: 300px;
 	z-index: -1;
+	height: 200px;
 }
 
 #logo{
 	height: 200px;
+}
+
+.box-content{
+	background-color: #3f6bb7;
+	height: 500px;
+}
+
+.box-line{
+	background-color: #ed6327;
+	height: 100px;
 }
