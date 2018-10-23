@@ -30,11 +30,11 @@ body{
 
 .box-line{
 	background-color: #ed6327;
-	height: 100px;
+	height: 80px;
 }
 
 .pic-content{
-	padding-top: 70px;
+	padding-top: 10px;
 	display: inline-block;
 }
 
