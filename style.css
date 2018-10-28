@@ -2,7 +2,66 @@
    font-family: pattayaFont;
    src: url(Pattaya-Regular.ttf);
 }
+@font-face {
+   font-family: kanitFont;
+   src: url(Kanit-Regular.ttf);
+}
 
 body{
 	font-family: pattayaFont;
+}
+
+#Bg{
+	position: absolute;
+	z-index: -1;
+}
+
+#head{
+	display: inline;
+}
+
+.btnn{
+	color: white;
+	font-family: kanitFont;
+	padding-bottom: 50px;
+	padding:10px;
+	border: none;
+	cursor: pointer;
+}
+
+.home{
+	background: #ed6327;
+}
+
+.make{
+	background: orange;
+}
+
+.what-eat{
+	background: #fcb023;
+}
+
+.about-us{
+	background: #f49ac1;
+}
+
+.contact-us{
+	background: #008aff;
+}
+
+.bar{
+	height: 90px;
+}
+
+.box-home{
+	background: #3f6bb7;
+	height: 500px;
+}
+
+.h-home{
+	color: #6eed0c;
+}
+
+.content-home{
+	color: #C8d5e8;
 }
