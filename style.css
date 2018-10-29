@@ -20,6 +20,11 @@ body{
 	display: inline;
 }
 
+.header{
+	padding: 0px;
+	margin-top: 10px;
+}
+
 .btnn{
 	color: white;
 	font-family: kanitFont;
