@@ -94,9 +94,11 @@ body{
 #about-img{
   float: center;
  top: 500px;
+ margin-top: 90px;
 }
 
 #about-text1{
+	margin-top: 100px;
 	position: absolute;
 	color: #daf75a;
 	top: 150px;
@@ -105,6 +107,7 @@ body{
 }
 
 #about-text2{
+	margin-top: 100px;
 	position: absolute;
 	color: #fff3f8;
 	top: 250px;
