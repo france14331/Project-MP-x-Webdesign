@@ -90,3 +90,25 @@ body{
 	cursor: pointer;
 	background: #6d8fe3;
 }
+
+#about-img{
+  float: center;
+ top: 500px;
+}
+
+#about-text1{
+	position: absolute;
+	color: #daf75a;
+	top: 150px;
+	left: 500px;
+	width: 400px;
+}
+
+#about-text2{
+	position: absolute;
+	color: #fff3f8;
+	top: 250px;
+	left: 500px;
+	width: 400px;
+}
+
