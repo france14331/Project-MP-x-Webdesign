@@ -63,9 +63,13 @@ body{
 	height: 500px;
 }
 
+.box-about-us{
+	background: #f49ac1;
+	height: 800px;
+}
+
 .h-home{
 	color: #6eed0c;
-	
 }
 
 .up{
