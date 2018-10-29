@@ -65,8 +65,24 @@ body{
 
 .h-home{
 	color: #6eed0c;
+	
+}
+
+.up{
+	font-size: 3em;
 }
 
 .content-home{
 	color: #C8d5e8;
+	font-size: 20px;
+}
+
+.btnn-content-home{
+	color: white;
+	font-family: pattayaFont;
+	padding-bottom: 50px;
+	padding:7px;
+	border: none;
+	cursor: pointer;
+	background: #6d8fe3;
 }
