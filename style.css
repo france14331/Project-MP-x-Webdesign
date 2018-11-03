@@ -32,6 +32,8 @@ body{
 	padding:10px;
 	border: none;
 	cursor: pointer;
+	width: 150px;
+	height: 50px;
 }
 
 .home{
@@ -65,7 +67,12 @@ body{
 
 .box-about-us{
 	background: #f49ac1;
-	height: 800px;
+	height: 700px;
+}
+
+.box-contact-us{
+	background: #008aff;
+	height: 700px;
 }
 
 .h-home{
@@ -115,3 +122,14 @@ body{
 	width: 400px;
 }
 
+#map{
+	position: relative;
+	padding: 150px;
+}
+
+#h-contact{
+	position: absolute;
+	padding-top: 50px;
+	left: 230px;
+	color: #ff4100;
+}
