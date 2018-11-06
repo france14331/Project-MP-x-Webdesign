@@ -9,6 +9,8 @@
 
 body{
 	font-family: pattayaFont;
+	background-image: url('background.png');
+	background: cover;
 }
 
 #Bg{
@@ -104,9 +106,12 @@ body{
 }
 
 #about-img{
-  float: center;
+ /* float: center;
  top: 500px;
- margin-top: 90px;
+ margin-top: 90px;*/
+
+ background-image: url('about.png');
+
 }
 
 
@@ -120,7 +125,7 @@ body{
 }
 
 #about-text2{
-
+	font-family: kanitFont;
 	margin-top: 50px;
 	position: absolute;
 	color: #fff3f8;
