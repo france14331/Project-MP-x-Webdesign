@@ -75,6 +75,11 @@ body{
 	height: 700px;
 }
 
+.box-make{
+	background: orange;
+	height: 900px;
+}
+
 .h-home{
 	color: #6eed0c;
 }
