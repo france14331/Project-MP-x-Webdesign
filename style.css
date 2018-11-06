@@ -67,7 +67,7 @@ body{
 
 .box-about-us{
 	background: #f49ac1;
-	height: 700px;
+	height: 1000px;
 }
 
 .box-contact-us{
@@ -104,22 +104,24 @@ body{
  margin-top: 90px;
 }
 
+
 #about-text1{
-	margin-top: 100px;
+	margin-top: 50px;
 	position: absolute;
 	color: #daf75a;
 	top: 150px;
 	left: 500px;
-	width: 400px;
+	width: 500px;
 }
 
 #about-text2{
-	margin-top: 100px;
+
+	margin-top: 50px;
 	position: absolute;
 	color: #fff3f8;
-	top: 250px;
+	top: 220px;
 	left: 500px;
-	width: 400px;
+	width: 500px;
 }
 
 #map{
