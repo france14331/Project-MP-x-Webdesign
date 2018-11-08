@@ -70,9 +70,12 @@ body{
 .box-about-us{
 	background: #f49ac1;
 	height: 1000px;
+	width: 100%;
 }
 
+
 .box-contact-us{
+
 	background: #008aff;
 	height: 700px;
 }
@@ -144,4 +147,19 @@ body{
 	padding-top: 50px;
 	left: 230px;
 	color: #ff4100;
+}
+
+#dish{
+	margin-top: 100px;
+	margin-left: 300px;
+	background: white;
+	height:  500px;
+}
+
+#food{
+	margin-top: 100px;
+	background: white;
+	height:  200px;
+	color: #15b350;
+	font-size: 50px;
 }
