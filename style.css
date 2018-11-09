@@ -10,7 +10,7 @@
 body{
 	font-family: pattayaFont;
 	background-image: url('background.png');
-	background: cover;
+	background-size: cover;
 }
 
 #Bg{
@@ -69,15 +69,14 @@ body{
 
 .box-about-us{
 	background: #f49ac1;
-	height: 1000px;
+	height: 50px;
 	width: 100%;
 }
 
 
 .box-contact-us{
-
 	background: #008aff;
-	height: 700px;
+	height: 710px;
 }
 
 .box-make{
@@ -112,9 +111,10 @@ body{
  /* float: center;
  top: 500px;
  margin-top: 90px;*/
-
+ position: relative;
  background-image: url('about.png');
-
+ background-size: cover;
+ height: 700px;
 }
 
 
