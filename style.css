@@ -149,11 +149,15 @@ body{
 	color: #ff4100;
 }
 
-#dish{
-	margin-top: 100px;
-	margin-left: 300px;
-	background: white;
-	height:  500px;
+#box-plate{
+	padding: 100px;
+	height: 1000px;
+}
+
+#plate-img{
+	width: 100%;
+	background-image: url('Plate.jpg');
+	background-size: cover;
 }
 
 #food{
