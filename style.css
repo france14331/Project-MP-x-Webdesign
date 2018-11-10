@@ -149,20 +149,22 @@ body{
 	color: #ff4100;
 }
 
-#box-plate{
-	padding: 100px;
+#box-dish{
 	height: 1000px;
 }
 
-#plate-img{
-	width: 100%;
+#box-plate{
+	margin-top: 100px;
+	margin-left: 300px;
+	height: 600px;
 	background-image: url('Plate.jpg');
-	background-size: cover;
+	background-size: auto;
 }
+
+
 
 #food{
 	margin-top: 100px;
-	background: white;
 	height:  200px;
 	color: #15b350;
 	font-size: 50px;
