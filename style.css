@@ -149,7 +149,11 @@ body{
 
 #box-plate{
 	margin: 100px auto;
+	margin-left: 400px;
 	height: 600px;
+	background-image: url('Plate.jpg');
+	position: relative;
+	background-repeat: no-repeat;
 }
 
 
