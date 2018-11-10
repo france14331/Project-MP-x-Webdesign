@@ -149,11 +149,30 @@ body{
 
 #box-plate{
 	margin: 100px auto;
+	margin-left: 300px;
 	height: 600px;
 	background-image: url('Plate.jpg');
 	position: relative;
 	background-repeat: no-repeat;
 }
+#box-food1{
+	margin-top: 130px;
+	height: 100px;
+	background-image: url('ต้มข่าไก่.png');
+	background-repeat: no-repeat;
+
+}
+#box-food2{
+	margin-top: 200px;
+	margin-left: 150px;
+	height: 100px;
+	background-image: url('ต้มข่าไก่.png');
+	background-repeat: no-repeat;
+
+	
+}
+
+
 
 #food{
 	margin-top: 100px;
