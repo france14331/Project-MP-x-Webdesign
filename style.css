@@ -170,11 +170,15 @@ body{
 	background-repeat: no-repeat;
 }
 
-
-
 #food{
 	margin-top: 100px;
 	height:  200px;
 	color: #15b350;
 	font-size: 50px;
+}
+
+.show-food{
+	margin: 15px;
+	width: 170px;
+	height: 170px;
 }
