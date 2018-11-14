@@ -1,7 +1,14 @@
 
 function del1(){
-food = document.querySelector('#box-food1');
-food.style.backgroundImage = url('side2.png');
+food = document.getElementById('box-food1')
+food.style.backgroundImage = "url(null)";
+
+
+}
+
+function del2(){
+food = document.getElementById('box-food2')
+food.style.backgroundImage = "url(null)";
 
 
 }
