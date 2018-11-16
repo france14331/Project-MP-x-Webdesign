@@ -81,7 +81,7 @@ body{
 
 .box-make{
 	background: orange;
-	height: 900px;
+	height: 1100px;
 }
 
 .h-home{
@@ -141,10 +141,6 @@ body{
 	padding-top: 50px;
 	left: 230px;
 	color: #ff4100;
-}
-
-#box-dish{
-	height: 1000px;
 }
 
 #box-plate{
