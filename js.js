@@ -69,7 +69,7 @@ function soup5(){
 	soup.style.backgroundImage = "url('soup5.png')";
 }
 
-function etc(){
+function etc1(){
 	etc = document.getElementById('etc')
 	etc.style.backgroundImage = "url('etc1.png')";
 	etc.style.backgroundSize = "100px 100px";
