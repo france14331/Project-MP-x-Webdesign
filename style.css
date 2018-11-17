@@ -170,7 +170,7 @@ body{
 	background-repeat: no-repeat;
 }
 
-#food{
+.food{
 	margin-top: 100px;
 	height:  200px;
 	color: #15b350;
@@ -186,4 +186,12 @@ body{
 .box-scroll{
 	height: 230px;
 	overflow-y: scroll;
+}
+
+.name-food{
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	font-size: 20px;
 }
