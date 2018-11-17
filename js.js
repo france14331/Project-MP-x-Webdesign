@@ -3,7 +3,7 @@ var num2 = 0;
 var num3 = 0;
 function del1(){
 	food = document.getElementById('box-food1')
-	food.style.backgroundImage = "url(null)";
+	food.style.backgroundImage = 'none';
 	if (num = 1) {
 		change = document.getElementById('side1')
 		change.src = ('side1.png');
@@ -28,7 +28,7 @@ function del1(){
 
 function del2(){
 	food = document.getElementById('box-food2')
-	food.style.backgroundImage = "url(null)";
+	food.style.backgroundImage = 'none';
 	if (num2 = 1) {
 		change = document.getElementById('soup1')
 		change.src = ('soup1.png');
@@ -53,7 +53,7 @@ function del2(){
 
 function del3(){
 	food = document.getElementById('etc')
-	food.style.backgroundImage = "url(null)";
+	food.style.backgroundImage = 'none';
 	if (num3 = 1) {
 		change = document.getElementById('etcfood')
 		change.src = ('etc1.png');
