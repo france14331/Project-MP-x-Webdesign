@@ -233,3 +233,14 @@ body::-webkit-scrollbar-thumb {
   background-color: yellow;
   outline: 1px solid slategrey;
 }
+
+@media only screen and (max-width: 768px){
+	.box-home{
+		position: relative;
+		display: block;
+		height: 100%;
+	}
+	img{
+		padding: 10px;
+	}
+}
