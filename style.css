@@ -184,7 +184,7 @@ body{
 }
 
 .box-scroll{
-	height: 230px;
+	height: 250px;
 	overflow-y: scroll;
 }
 
@@ -222,15 +222,15 @@ body::-webkit-scrollbar-thumb {
 }
 
 .box-scroll::-webkit-scrollbar {
-    width: 0.7em;
+    width: 0.4em;
 }
  
-.box-scroll::-webkit-scrollbar-track {
+/*.box-scroll::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-}
+}*/
  
 .box-scroll::-webkit-scrollbar-thumb {
-  background-color: yellow;
+  background-color: #FF8C00;
   outline: 1px solid slategrey;
 }
 
