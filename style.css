@@ -251,6 +251,13 @@ body::-webkit-scrollbar-thumb {
 		display: block;
 		height: 100%;
 	}
+	.box-about-us{
+		position: relative;
+		display: block;
+	}
+	#about-text2{
+		width: 100%;
+	}
 	img{
 		padding: 10px;
 	}
