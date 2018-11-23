@@ -265,8 +265,39 @@ body::-webkit-scrollbar-thumb {
 
 }
 
-#meal1 div{
-	background-image: url('menu1.jpg');
+#menu-s1{
+	background-image: url('menu-s1.jpg');
+	background-size: cover;
+	background-position: center;
+	flex-grow:1;
+	transition:all .3s;
+}
+#menu-s2{
+	background-image: url('menu-s2.jpg');
+	background-size: cover;
+	background-position: center;
+	flex-grow:1;
+	transition:all .3s;
+}
+
+#menu-s3{
+	background-image: url('menu-s3.jpg');
+	background-size: cover;
+	background-position: center;
+	flex-grow:1;
+	transition:all .3s;
+}
+
+#menu-s4{
+	background-image: url('menu-s4.jpg');
+	background-size: cover;
+	background-position: center;
+	flex-grow:1;
+	transition:all .3s;
+}
+
+#menu-s5{
+	background-image: url('menu-s5.jpg');
 	background-size: cover;
 	background-position: center;
 	flex-grow:1;
@@ -274,6 +305,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 #meal1 div:hover{
-	flex-grow:3 !important;
+	flex-grow:2 !important;
 };
 

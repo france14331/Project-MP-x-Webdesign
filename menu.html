@@ -37,7 +37,15 @@
 				<div onclick="grow(this)" id="menu-s5"></div>
 			</div>
 		</div>
-
+		<script type="text/javascript">
+		function grow(e){
+		themeal = document.querySelectorAll("#meal1 div");
+		for (var i = 0; i < themeal.length; i++) {
+		themeal[i].style.flexGrow = 1;
+		};
+		e.style.flexGrow = 2;
+}
+	</script>
 		<div class="col-sm-12">
 			
 		</div>
