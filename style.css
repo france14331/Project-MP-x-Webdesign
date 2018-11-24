@@ -277,6 +277,15 @@ body::-webkit-scrollbar-thumb {
 	#about-text2{
 		width: 100%;
 	}
+	.box-make{
+		height: 1800px;
+		text-align: center;
+	}
+	#box-plate{
+		margin: 0px;
+		margin-top: 15px;
+		width: 100%;
+	}
 	img{
 		padding: 10px;
 	}
