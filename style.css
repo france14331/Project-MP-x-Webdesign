@@ -121,6 +121,11 @@ body{
  height: 700px;
 }
 
+.box-scroll2{
+	height: 500px;
+	overflow-y: scroll;
+}
+
 
 #about-text1{
 	margin-top: 50px;
@@ -244,6 +249,20 @@ body::-webkit-scrollbar-thumb {
   background-color: #FF8C00;
   outline: 1px solid slategrey;
 }
+
+.box-scroll2::-webkit-scrollbar {
+    width: 0.4em;
+}
+ 
+/*.box-scroll2::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}*/
+ 
+.box-scroll2::-webkit-scrollbar-thumb {
+  background-color: 	#D3D3D3;
+  outline: 1px solid slategrey;
+}
+
 
 @media only screen and (max-width: 768px){
 	.box-home{
