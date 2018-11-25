@@ -263,7 +263,6 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid slategrey;
 }
 
-
 @media only screen and (max-width: 768px){
 	.box-home{
 		position: relative;
@@ -284,7 +283,21 @@ body::-webkit-scrollbar-thumb {
 	#box-plate{
 		margin: 0px;
 		margin-top: 15px;
+	}
+	#map{
+		margin-top: 150px;
+		padding: 0;
+	}
+	.responsive-map{
+		margin: 0px;
+		padding: 0px;
 		width: 100%;
+	}
+	#h-contact{
+		left: 0px;
+	}
+	#h-menu{
+		left: 0px;
 	}
 	img{
 		padding: 10px;
@@ -299,7 +312,6 @@ body::-webkit-scrollbar-thumb {
 
 #meal1{
 	margin-top: 150px;
-	margin-left: 220px;
 	display: flex;
 	width: 100%;
 	height: 60vh;
@@ -361,7 +373,6 @@ body::-webkit-scrollbar-thumb {
 
 #meal2{
 	margin-top: 100px;
-	margin-left: 220px;
 	display: flex;
 	width: 100%;
 	height: 60vh;
