@@ -443,4 +443,21 @@ body::-webkit-scrollbar-thumb {
 
 #meal2 div:hover{
 	flex-grow:2 !important;
-};
+}
+
+#line-make-top{
+	display: block;
+	position: relative;
+	border-color: blue;
+	margin-top: 0px;
+	border-style: solid;
+	border-width: 5px;
+}
+#line-make-bottom{
+	display: block;
+	position: relative;
+	border-color: blue;
+	margin-top: -5px;
+	border-style: solid;
+	border-width: 3px;
+}
